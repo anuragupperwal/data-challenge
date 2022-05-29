@@ -1,0 +1,72 @@
+
+.card {
+    // width: 90%;
+    padding: 30px;
+    // margin: 20px 0px 40px 0px;
+    text-align: center;
+}
+.card-image img{
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.card {
+    p {
+        margin-bottom: 0px;
+    }
+}
+
+.small-image {
+    height: 100px;
+}
+
+.chart {
+    text-align: center;
+}
+
+.chart h2 {
+    margin: 40px 0px;
+    text-align: center;
+}
+.data {
+    text-align: center;
+    margin: 60px 0px;
+}
+.data span {
+    font-size: 40px;
+}
+
+.footpath-percentage-header, .cycle-track-percentage-header {
+    margin-top: 80px;
+}
+.footpath-percentage, .cycle-track-percentage {
+    font-size: 35px;
+}
+
+
+
+a.large-padding {
+    h3 {
+        padding: 0px 100px;
+    }
+}
+
+.pop_digits {
+    font-size: 3em;
+}
+
+.pollution-cards {
+    p {
+        margin-top: 5px;
+        font-size: 1.3em;
+    }
+    small {
+        font-family: 'Consolas';
+        font-size: 1em;
+    }
+}
+
+.head-bang {
+    margin-top: 20px;
+    padding: 0px 15px;
+}

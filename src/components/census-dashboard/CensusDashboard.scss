@@ -1,0 +1,103 @@
+.CensusDashboard {
+    margin: 70px 0;
+    .nav-links {
+        width: 100%;
+        padding: 0;
+        li {
+            list-style-type: none;
+            display: inline-block;
+            padding: 0 5px;
+        }
+    }
+    .nav-link:hover {
+        color: grey;
+    }
+    .gis-container {
+        text-align: justify;
+        padding-right: 0;
+        padding-left: 30px;
+        /* .col-md-8 {
+            
+        }
+        .col-md-4 {
+            padding: 0px 40px;
+            padding-right: 13px;
+        } */
+    }
+
+    .insights-box {
+        padding-left: 90px;
+        text-align: left;
+        p, h4 {
+            margin-bottom: 5px;
+        }
+        h4 {
+            text-align: left;
+            font-size: 1.7rem;
+            margin-bottom: 20px;
+            font-weight: 900;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 2.2rem;
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+        li {
+            font-size: 1.2em;
+            margin: 7px 0;
+        }
+    }
+    .full-width-select {
+        width: 99%;
+    }
+    .half-width-select {
+        width: 49.2%;
+        margin: 10px 2px;
+    }
+    .census-item-section {
+        margin: 170px 0;
+        /* margin-top: 20px;
+        margin-bottom: 30px; */
+        // padding: 0 20px;
+        .item-sub-section {
+            margin-top: 0px;
+            margin-bottom: 170px;
+            .viz-box {
+                padding-right: 90px;
+            }
+        }
+    }
+    .intro-box {
+        padding: 0 80px;
+        line-height: 2.8rem;
+        p {
+            font-size: 1.5rem;
+        }
+    }
+    .input-control-row {
+        margin-top: 0px;
+    }
+    .us-def-container {
+        margin-top: 0;
+        margin-bottom: 0;
+        .row {
+            margin-top: 0;
+        }
+        .img-container {
+            padding: 0;
+        }
+        .text-container {
+            text-align: left;
+            h5 {
+                margin: 0;
+                font-weight: 700;
+            }
+            p {
+                font-size: 1rem;
+                line-height: 1.8rem;
+                text-align: justify;
+            }
+        }
+    }
+}
